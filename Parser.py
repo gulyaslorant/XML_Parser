@@ -12,19 +12,24 @@ image_urls = []
 # Iterate over each 'item' element in the XML file
 for item in root.findall('./channel/item'):
     # Get the 'content' element
-    title = item.find('title').text
+    url = item.find('guid').text
+    print(url)
+    urlsplit=url.rsplit('/', 1)[-1]
+    print(urlsplit)
+
+
     # If the 'content' element exists and has a 'url' attribute
-    if title is not None:
+    if url is not None:
         # Add the URL to the list of image URLs
-        image_urls.append(title)
+        image_urls.append(urlsplit)
 
 # Create a new Excel workbook and sheet
 wb = Workbook()
 ws = wb.active
 
 # Write the image URLs to the Excel sheet
-for i, title  in enumerate(image_urls):
-    ws.cell(row=i+1, column=1, value=title)
+for i, urlsplit  in enumerate(image_urls):
+    ws.cell(row=i+1, column=1, value=urlsplit)
 # Define a list to store the image URLs
 image_urls = []
 
@@ -32,14 +37,12 @@ image_urls = []
 for item in root.findall('./channel/item'):
     # Get the 'content' element
     url = item.find('guid').text
-    print(url)
 
     # If the 'content' element exists and has a 'url' attribute
     if url is not None:
         # Add the URL to the list of image URLs
         image_urls.append(url)
 
-print(image_urls)
 
 # Create a new Excel workbook and sheet
 
