@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from openpyxl import Workbook
 
 # Parse the XML file
-tree = ET.parse('Sourcefiles/Cloudberry.xml')
+tree = ET.parse('Sourcefiles/Medien.xml')
 
 # Get the root element
 root = tree.getroot()
@@ -13,9 +13,8 @@ image_urls = []
 for item in root.findall('./channel/item'):
     # Get the 'content' element
     url = item.find('guid').text
-    print(url)
     urlsplit=url.rsplit('/', 1)[-1]
-    print(urlsplit)
+
 
 
     # If the 'content' element exists and has a 'url' attribute
