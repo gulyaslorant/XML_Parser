@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from openpyxl import Workbook
 
 # Parse the XML file
-tree = ET.parse('Sourcefiles/Medien.xml')
+tree = ET.parse('Sourcefiles/MF3.xml')
 
 # Get the root element
 root = tree.getroot()
