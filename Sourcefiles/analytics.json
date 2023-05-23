@@ -1,0 +1,4837 @@
+{
+  "kind": "analytics#accountSummaries",
+  "username": "companyanalytic@propster.tech",
+  "totalResults": 6,
+  "startIndex": 1,
+  "itemsPerPage": 1000,
+  "items": [
+    {
+      "id": "215321944",
+      "kind": "analytics#accountSummary",
+      "name": "PROPSTER 4",
+      "webProperties": [
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-7",
+          "name": "5073.sonderwunschapp.de",
+          "internalWebPropertyId": "299296072",
+          "level": "STANDARD",
+          "websiteUrl": "https://5073.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "258373990",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "258372376",
+              "name": "Filtered View - 5073.sonderwunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-1",
+          "name": "e-franklin.sonderwunschapp.de",
+          "internalWebPropertyId": "296823536",
+          "level": "STANDARD",
+          "websiteUrl": "https://e-franklin.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257229797",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257207091",
+              "name": "Filtered View - e-franklin.sonderunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-6",
+          "name": "finkenstein.propster.app",
+          "internalWebPropertyId": "297582856",
+          "level": "STANDARD",
+          "websiteUrl": "https://finkenstein.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257553746",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257519087",
+              "name": "Filtered View - finkenstein.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-9",
+          "name": "flurstrasse-gwl.werndl-partner.de",
+          "internalWebPropertyId": "304641408",
+          "level": "STANDARD",
+          "websiteUrl": "https://flurstrasse-gwl.werndl-partner.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "261430602",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "261392045",
+              "name": "Filtered View - flurstrasse-gwl.werndl-partner.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-24",
+          "name": "https://12452.propster.app/",
+          "internalWebPropertyId": "321823897",
+          "level": "STANDARD",
+          "websiteUrl": "https://12452.propster.app/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "270332427",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "270344283",
+              "name": "Filtered View - 12452.propster.app/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-17",
+          "name": "https://12496.propster.app/",
+          "internalWebPropertyId": "315869965",
+          "level": "STANDARD",
+          "websiteUrl": "https://12496.propster.app/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267377421",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267374391",
+              "name": "Filtered View - 12496.propster.app/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-21",
+          "name": "https://13054.propster.app",
+          "internalWebPropertyId": "318481110",
+          "level": "STANDARD",
+          "websiteUrl": "https://13054.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "268754437",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "268742431",
+              "name": "Filtered View - 13054.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-32",
+          "name": "https://5050.propster.app/",
+          "internalWebPropertyId": "332648092",
+          "level": "STANDARD",
+          "websiteUrl": "https://5050.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "275681802",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "275699986",
+              "name": "Filtered View - 5050.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-47",
+          "name": "https://am-heuberg.bau-boden.at/",
+          "internalWebPropertyId": "349806258",
+          "level": "STANDARD",
+          "websiteUrl": "https://am-heuberg.bau-boden.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "283098460",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "283084027",
+              "name": "Filtered View - am-heuberg.bau-boden.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-39",
+          "name": "https://amhofrat.rosentritt-wohnbau.de/",
+          "internalWebPropertyId": "341847664",
+          "level": "STANDARD",
+          "websiteUrl": "https://amhofrat.rosentritt-wohnbau.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "280214999",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "280182279",
+              "name": "Filtered View - amhofrat.rosentritt-wohnbau.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-45",
+          "name": "https://anneliesquartier.kraemmel.de/",
+          "internalWebPropertyId": "347185532",
+          "level": "STANDARD",
+          "websiteUrl": "https://anneliesquartier.kraemmel.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "282146208",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "282141191",
+              "name": "Filtered View - anneliesquartier.kraemmel.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-35",
+          "name": "https://bahnhofstrasse.propster.app/",
+          "internalWebPropertyId": "338083654",
+          "level": "STANDARD",
+          "websiteUrl": "https://bahnhofstrasse.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "278157517",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "278185294",
+              "name": "Filtered View - bahnhofstrasse.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-11",
+          "name": "https://bauac.sonderwunschapp.de/",
+          "internalWebPropertyId": "310652167",
+          "level": "STANDARD",
+          "websiteUrl": "https://bauac.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "264683562",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "264679431",
+              "name": "Filtered View bauac.sonderwunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-38",
+          "name": "https://baumhaeuser-bachweg.wohnzone.com/",
+          "internalWebPropertyId": "340944807",
+          "level": "STANDARD",
+          "websiteUrl": "https://baumhaeuser-bachweg.wohnzone.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "279755345",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "279766557",
+              "name": "Filtered View - baumhaeuser-bachweg.wohnzone.com",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-22",
+          "name": "https://berghaus-tinyhouse.sonderwunschapp.de/",
+          "internalWebPropertyId": "321369738",
+          "level": "STANDARD",
+          "websiteUrl": "https://berghaus-tinyhouse.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "270142340",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "270135764",
+              "name": "Filtered View - /berghaus-tinyhouse.sonderwunschapp.de/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-41",
+          "name": "https://brolsstrasse.zima.at/",
+          "internalWebPropertyId": "343604626",
+          "level": "STANDARD",
+          "websiteUrl": "https://brolsstrasse.zima.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "280670225",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "280698177",
+              "name": "Filtered View - brolsstrasse.zima.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-26",
+          "name": "https://dorfleben.eglo-immobilien.at/",
+          "internalWebPropertyId": "324108016",
+          "level": "STANDARD",
+          "websiteUrl": "https://dorfleben.eglo-immobilien.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "271584851",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "271581321",
+              "name": "Filtered View - dorfleben.eglo-immobilien.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-20",
+          "name": "https://ehl.propster.app/",
+          "internalWebPropertyId": "318101341",
+          "level": "STANDARD",
+          "websiteUrl": "https://ehl.propster.app/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "268497332",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "268490672",
+              "name": "Filtered View - ehl.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-50",
+          "name": "https://elk-haus-designer.sonderwunschapp.de/",
+          "internalWebPropertyId": "357190176",
+          "level": "STANDARD",
+          "websiteUrl": "https://elk-haus-designer.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "286155219",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "286173699",
+              "name": "Filtered View - elk-haus-designer.sonderwunschapp.de/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-42",
+          "name": "https://gisingerfeld.zima.at/",
+          "internalWebPropertyId": "344861144",
+          "level": "STANDARD",
+          "websiteUrl": "https://gisingerfeld.zima.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "281178397",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "281157697",
+              "name": "Filtered View - gisingerfeld.zima.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-10",
+          "name": "https://gruenblick.sonderwunschapp.at/",
+          "internalWebPropertyId": "308099314",
+          "level": "STANDARD",
+          "websiteUrl": "https://gruenblick.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "263291344",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "263266501",
+              "name": "Filtered View - gruenblick.sonderwunschapp.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-33",
+          "name": "https://gruene-hoefe.egp.de/",
+          "internalWebPropertyId": "335474516",
+          "level": "STANDARD",
+          "websiteUrl": "https://gruene-hoefe.egp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "277064113",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "277086634",
+              "name": "Filtered View - gruene-hoefe.egp.de/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-54",
+          "name": "https://hubert.kraemmel.de/",
+          "internalWebPropertyId": "376066405",
+          "level": "STANDARD",
+          "websiteUrl": "https://hubert.kraemmel.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "290258174",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "290236456",
+              "name": "Filtered View  https://hubert.kraemmel.de/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-18",
+          "name": "https://kaisermannstrasse.zima.at",
+          "internalWebPropertyId": "316702974",
+          "level": "STANDARD",
+          "websiteUrl": "https://kaisermannstrasse.zima.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267819754",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267832898",
+              "name": "Filtered View - kaisermannstrasse.zima.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-31",
+          "name": "https://kammweg.krams-projektentwicklung.de/",
+          "internalWebPropertyId": "331299996",
+          "level": "STANDARD",
+          "websiteUrl": "https://kammweg.krams-projektentwicklung.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "275182419",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "275134626",
+              "name": "Filtered View - kammweg.krams-projektentwicklung.de/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-34",
+          "name": "https://khek51.propster.app/",
+          "internalWebPropertyId": "337684106",
+          "level": "STANDARD",
+          "websiteUrl": "https://khek51.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "277975241",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "277940066",
+              "name": "Filtered View - https://khek51.propster.app/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-8",
+          "name": "https://kleyerstrasse.zueblin.de/",
+          "internalWebPropertyId": "302427146",
+          "level": "STANDARD",
+          "websiteUrl": "https://kleyerstrasse.zueblin.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "260234418",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "260239057",
+              "name": "Filtered View - kleyerstrasse.zueblin.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-52",
+          "name": "https://kollonitschgasse.propster.app/",
+          "internalWebPropertyId": "363352257",
+          "level": "STANDARD",
+          "websiteUrl": "https://kollonitschgasse.propster.app/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "287957830",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "287944291",
+              "name": "Filtered View - kollonitschgasse.propster.app/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-56",
+          "name": "https://kult23.propster.app/",
+          "internalWebPropertyId": "376072949",
+          "level": "STANDARD",
+          "websiteUrl": "https://kult23.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "290215033",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "290269477",
+              "name": "Filtered View - kult23.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-49",
+          "name": "https://lindenpark.sonderwunschapp.de",
+          "internalWebPropertyId": "355989759",
+          "level": "STANDARD",
+          "websiteUrl": "https://lindenpark.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "285675716",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "285686521",
+              "name": "Filtered View - lindenpark.sonderwunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-53",
+          "name": "https://lindner.propster.app/",
+          "internalWebPropertyId": "371941489",
+          "level": "STANDARD",
+          "websiteUrl": "https://lindner.propster.app/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "289039341",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "289041462",
+              "name": "Filtered View - lindner.propster.app/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-16",
+          "name": "https://maxfrei.sonderwunschapp.de",
+          "internalWebPropertyId": "315639932",
+          "level": "STANDARD",
+          "websiteUrl": "https://maxfrei.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267261662",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267245500",
+              "name": "Filtered View - maxfrei.sonderwunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-44",
+          "name": "https://meinludwigs.dii.de/",
+          "internalWebPropertyId": "346764986",
+          "level": "STANDARD",
+          "websiteUrl": "https://meinludwigs.dii.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "282013497",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "282009202",
+              "name": "Filtered View - meinludwigs.dii.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-15",
+          "name": "https://mm.rosentritt-wohnbau.de/",
+          "internalWebPropertyId": "315634144",
+          "level": "STANDARD",
+          "websiteUrl": "https://mm.rosentritt-wohnbau.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267262659",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267233776",
+              "name": "Filtered View - mm.rosentritt-wohnbau.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-55",
+          "name": "https://mokka.propster.app/",
+          "internalWebPropertyId": "376064568",
+          "level": "STANDARD",
+          "websiteUrl": "https://mokka.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "290228458",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "290244988",
+              "name": "Filtered View - mokka.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-40",
+          "name": "https://pfaefersweg.zima.at/",
+          "internalWebPropertyId": "343574288",
+          "level": "STANDARD",
+          "websiteUrl": "https://pfaefersweg.zima.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "280693632",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "280679198",
+              "name": "Filtered View - https://pfaefersweg.zima.at/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-43",
+          "name": "https://quartier-am-gruenguertel.sonderwunschapp.de/",
+          "internalWebPropertyId": "345407945",
+          "level": "STANDARD",
+          "websiteUrl": "https://quartier-am-gruenguertel.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "281381291",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "281350996",
+              "name": "Filtered View - quartier-am-gruenguertel.sonderwunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-36",
+          "name": "https://quartier-neuemitte.sonderwunschapp.at/",
+          "internalWebPropertyId": "338524891",
+          "level": "STANDARD",
+          "websiteUrl": "https://quartier-neuemitte.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "278423655",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "278430434",
+              "name": "Filtered View - quartier-neuemitte.sonderwunschapp.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-28",
+          "name": "https://re01-altespinnerei.sonderwunschapp.de/",
+          "internalWebPropertyId": "326770360",
+          "level": "STANDARD",
+          "websiteUrl": "https://re01-altespinnerei.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "272959349",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "272969662",
+              "name": "Filtered View - re01-altespinnerei.sonderwunschapp.de/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-46",
+          "name": "https://steingoetterhof.6b47.at/",
+          "internalWebPropertyId": "349423838",
+          "level": "STANDARD",
+          "websiteUrl": "https://steingoetterhof.6b47.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "282954184",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "282954996",
+              "name": "Filtered View - steingoetterhof.6b47.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-19",
+          "name": "https://storchanest.zima.at",
+          "internalWebPropertyId": "316901980",
+          "level": "STANDARD",
+          "websiteUrl": "https://storchanest.zima.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267879805",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "267881527",
+              "name": "Filtered View - storchanest.zima.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-30",
+          "name": "https://strobl.wohnzone.com/",
+          "internalWebPropertyId": "331239308",
+          "level": "STANDARD",
+          "websiteUrl": "https://strobl.wohnzone.com/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "275137938",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "275157929",
+              "name": "Filtered View -  strobl.wohnzone.com",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-51",
+          "name": "https://tauern-quartett.wohnzone.com/",
+          "internalWebPropertyId": "359797730",
+          "level": "STANDARD",
+          "websiteUrl": "https://tauern-quartett.wohnzone.com/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "287274120",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "287267459",
+              "name": "Filtered View - https://tauern-quartett.wohnzone.com/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-23",
+          "name": "https://traumseeblick.wimbergerimmobilien.at",
+          "internalWebPropertyId": "321803421",
+          "level": "STANDARD",
+          "websiteUrl": "https://traumseeblick.wimbergerimmobilien.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "270344357",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "270387846",
+              "name": "Filtered View - traumseeblick.wimbergerimmobilien.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-37",
+          "name": "https://villa-ammerer.wohnzone.com/",
+          "internalWebPropertyId": "340698928",
+          "level": "STANDARD",
+          "websiteUrl": "https://villa-ammerer.wohnzone.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "279580722",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "279588816",
+              "name": "Filtered View - https://villa-ammerer.wohnzone.com/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-25",
+          "name": "https://wam.werndl-partner.de",
+          "internalWebPropertyId": "323659949",
+          "level": "STANDARD",
+          "websiteUrl": "https://wam.werndl-partner.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "271343905",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "271356942",
+              "name": "Filtered View - wam.werndl-partner.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-29",
+          "name": "https://wohnen-salberg.wohnzone.com/",
+          "internalWebPropertyId": "330664922",
+          "level": "STANDARD",
+          "websiteUrl": "https://wohnen-salberg.wohnzone.com/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "274872981",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "274879424",
+              "name": "Filtered View - wohnen-salberg.wohnzone.com/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-5",
+          "name": "https://wygarten2b.propster.promo/",
+          "internalWebPropertyId": "297348858",
+          "level": "STANDARD",
+          "websiteUrl": "https://wygarten2b.propster.promo/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257475193",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257450165",
+              "name": "Filtered view wygarten2b.propster.promo/",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-48",
+          "name": "https:/designkonfigurator-mc-cube.sonderwunschapp.at",
+          "internalWebPropertyId": "353086079",
+          "level": "STANDARD",
+          "websiteUrl": "https://designkonfigurator-mc-cube.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "284512038",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "284505981",
+              "name": "Filtered View - designkonfigurator-mc-cube.sonderwunschapp.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-13",
+          "name": "klr5.pmp-immobilien.at",
+          "internalWebPropertyId": "311733852",
+          "level": "STANDARD",
+          "websiteUrl": "https://klr5.pmp-immobilien.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "265218217",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "265218121",
+              "name": "Filtered View klr5.pmp-immobilien.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-3",
+          "name": "leywand.propster.app",
+          "internalWebPropertyId": "297211779",
+          "level": "STANDARD",
+          "websiteUrl": "https://leywand.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257368316",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257434030",
+              "name": "Filtered View - leywand.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-14",
+          "name": "lichtspielhaus.werndl-partner.de",
+          "internalWebPropertyId": "314538372",
+          "level": "STANDARD",
+          "websiteUrl": "https://lichtspielhaus.werndl-partner.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "266716301",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "266717619",
+              "name": "Filtered Traffic-lichtspielhaus.werndl-partner.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-12",
+          "name": "maxfrei-3ab.sonderwunschapp.de",
+          "internalWebPropertyId": "310750856",
+          "level": "STANDARD",
+          "websiteUrl": "https://maxfrei-3ab.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "264703992",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "264667919",
+              "name": "Filtered View maxfrei-3ab.sonderwunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-2",
+          "name": "stadtgaerten-unterrath.sonderwunschapp.de",
+          "internalWebPropertyId": "296947719",
+          "level": "STANDARD",
+          "websiteUrl": "https://stadtgaerten-unterrath.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257280222",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257290822",
+              "name": "Filtered View - stadtgaerten-unterrath.sonderwunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-215321944-4",
+          "name": "wygarten2b.leuthard.ag",
+          "internalWebPropertyId": "297249425",
+          "level": "STANDARD",
+          "websiteUrl": "https://wygarten2b.leuthard.ag",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257445481",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257402996",
+              "name": "Filtered View - wygarten2b.leuthard.ag",
+              "type": "WEB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "175471880",
+      "kind": "analytics#accountSummary",
+      "name": "PROPSTER Cloud",
+      "webProperties": [
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-175471880-1",
+          "name": "PROPSTER Cloud",
+          "internalWebPropertyId": "243298205",
+          "level": "STANDARD",
+          "websiteUrl": "https://propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "226565629",
+              "name": "Все данные по веб-сайту",
+              "type": "WEB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "175578358",
+      "kind": "analytics#accountSummary",
+      "name": "PROPSTER COMPANY ANALYTIC",
+      "webProperties": [
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-175578358-3",
+          "name": "apoprojekt.propster.market",
+          "internalWebPropertyId": "263500034",
+          "level": "STANDARD",
+          "websiteUrl": "https://apoprojekt.propster.market",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238088769",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-175578358-4",
+          "name": "at.propster.market",
+          "internalWebPropertyId": "297617994",
+          "level": "STANDARD",
+          "websiteUrl": "https://at.propster.market/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "257555043",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-175578358-1",
+          "name": "de.propster.market",
+          "internalWebPropertyId": "243386922",
+          "level": "STANDARD",
+          "websiteUrl": "https://de.propster.market",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "226653518",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-175578358-5",
+          "name": "helpcenter.propster.tech",
+          "internalWebPropertyId": "307927964",
+          "level": "STANDARD",
+          "websiteUrl": "https://helpcenter.propster.tech",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "263124775",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-175578358-2",
+          "name": "test.de.propster.market",
+          "internalWebPropertyId": "243478549",
+          "level": "STANDARD",
+          "websiteUrl": "https://test.de.propster.market",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "226702244",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "226716486",
+              "name": "Filtered treffic",
+              "type": "WEB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74611556",
+      "kind": "analytics#accountSummary",
+      "name": "PROPSTER GA 1",
+      "webProperties": [
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-57",
+          "name": "11399.propster.app",
+          "internalWebPropertyId": "286971843",
+          "level": "STANDARD",
+          "websiteUrl": "https://11399.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "251466344",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "251499156",
+              "name": "Filtered View",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "251463365",
+              "name": "Filtered View 11399.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-48",
+          "name": "aichhorngasse9.at",
+          "internalWebPropertyId": "204579395",
+          "level": "STANDARD",
+          "websiteUrl": "https://aichhorngasse9.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213177288",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197936779",
+              "name": "Filtered Traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-5",
+          "name": "aichhorngasse9.sonderwunschapp.at",
+          "internalWebPropertyId": "179857926",
+          "level": "STANDARD",
+          "websiteUrl": "https://aichhorngasse9.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213196424",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "178105502",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-53",
+          "name": "alte-landstrasse.muellerwohnbau.at",
+          "internalWebPropertyId": "247230631",
+          "level": "STANDARD",
+          "websiteUrl": "https://alte-landstrasse.muellerwohnbau.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "229561841",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "230995691",
+              "name": "Filtered Traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-43",
+          "name": "b-central-bischofshofen.sonderwunschapp.at",
+          "internalWebPropertyId": "202702095",
+          "level": "STANDARD",
+          "websiteUrl": "https://b-central-bischofshofen.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213185994",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "196455477",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-9",
+          "name": "bendlgasse33.at",
+          "internalWebPropertyId": "184803139",
+          "level": "STANDARD",
+          "websiteUrl": "https://bendlgasse33.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213209199",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "182094478",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-10",
+          "name": "bendlgasse33.sonderwunschapp.at",
+          "internalWebPropertyId": "184823542",
+          "level": "STANDARD",
+          "websiteUrl": "https://bendlgasse33.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213217966",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "182116503",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-25",
+          "name": "biotope-city-bpl13.sonderwunschapp.at",
+          "internalWebPropertyId": "190306259",
+          "level": "STANDARD",
+          "websiteUrl": "https://biotope-city-bpl13.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213188932",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "186520341",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-34",
+          "name": "biotope-city.sonderwunschapp.at",
+          "internalWebPropertyId": "197369572",
+          "level": "STANDARD",
+          "websiteUrl": "https://biotope-city.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213217600",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "192204409",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-26",
+          "name": "breitenleer-gaerten.sonderwunschapp.at",
+          "internalWebPropertyId": "191907646",
+          "level": "STANDARD",
+          "websiteUrl": "https://breitenleer-gaerten.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213192461",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "187682105",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-24",
+          "name": "configurator.daslevels.at",
+          "internalWebPropertyId": "187778381",
+          "level": "STANDARD",
+          "websiteUrl": "https://configurator.daslevels.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213175295",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "184479955",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-56",
+          "name": "demo-at.propster.app",
+          "internalWebPropertyId": "283303979",
+          "level": "STANDARD",
+          "websiteUrl": "https://demo-at.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "249378298",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-3",
+          "name": "demo.sonderwunschapp.at",
+          "internalWebPropertyId": "174344206",
+          "level": "STANDARD",
+          "websiteUrl": "https://demo.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213206285",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "173545358",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-50",
+          "name": "demo.sonderwunschapp.de",
+          "internalWebPropertyId": "218164291",
+          "level": "STANDARD",
+          "websiteUrl": "https://demo.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213169718",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "208114536",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-31",
+          "name": "elk-aktionshaus.sonderwunschapp.at",
+          "internalWebPropertyId": "196961610",
+          "level": "STANDARD",
+          "websiteUrl": "https://elk-aktionshaus.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213167815",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "191885182",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-45",
+          "name": "elk-aktionshaus.sonderwunschapp.de",
+          "internalWebPropertyId": "204232367",
+          "level": "STANDARD",
+          "websiteUrl": "https://elk-aktionshaus.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213166390",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197681347",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-30",
+          "name": "elk.sonderwunschapp.at",
+          "internalWebPropertyId": "196935595",
+          "level": "STANDARD",
+          "websiteUrl": "https://elk.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213190559",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "191859339",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-22",
+          "name": "elk.sonderwunschapp.de",
+          "internalWebPropertyId": "186684491",
+          "level": "STANDARD",
+          "websiteUrl": "https://elk.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213173685",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183614669",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-41",
+          "name": "elkbau-pottenbrunn.sonderwunschapp.at",
+          "internalWebPropertyId": "202298606",
+          "level": "STANDARD",
+          "websiteUrl": "https://elkbau-pottenbrunn.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213249453",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "196122128",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-28",
+          "name": "glouglou.sonderwunschapp.at",
+          "internalWebPropertyId": "196453807",
+          "level": "STANDARD",
+          "websiteUrl": "https://glouglou.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213252764",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "191457513",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-44",
+          "name": "gmunden-cumberlandstrasse.sonderwunschapp.at",
+          "internalWebPropertyId": "202720958",
+          "level": "STANDARD",
+          "websiteUrl": "https://gmunden-cumberlandstrasse.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213224678",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "196474541",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-18",
+          "name": "gronsdorf.sonderwunschapp.de",
+          "internalWebPropertyId": "186656546",
+          "level": "STANDARD",
+          "websiteUrl": "https://gronsdorf.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213257389",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183594292",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-15",
+          "name": "gutlaudon.sonderwunschapp.at",
+          "internalWebPropertyId": "186389488",
+          "level": "STANDARD",
+          "websiteUrl": "https://gutlaudon.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213264459",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183391151",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-36",
+          "name": "hauptstrasse19.sonderwunschapp.at",
+          "internalWebPropertyId": "198419357",
+          "level": "STANDARD",
+          "websiteUrl": "https://hauptstrasse19.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213249150",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "193062095",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-19",
+          "name": "immacon.sonderwunschapp.at",
+          "internalWebPropertyId": "186713361",
+          "level": "STANDARD",
+          "websiteUrl": "https://immacon.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213269004",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183630811",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-51",
+          "name": "Keyword Hero - sonderwunsch-meister.com",
+          "internalWebPropertyId": "232703276",
+          "level": "STANDARD",
+          "websiteUrl": "https://www.sonderwunsch-meister.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "218473842",
+              "name": "Keyword View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-32",
+          "name": "korso.sonderwunschapp.at",
+          "internalWebPropertyId": "196958632",
+          "level": "STANDARD",
+          "websiteUrl": "https://korso.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213241156",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "191882185",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-46",
+          "name": "laaerstrasse20.sonderwunschapp.at",
+          "internalWebPropertyId": "204309886",
+          "level": "STANDARD",
+          "websiteUrl": "https://laaerstrasse20.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213257997",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197732992",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-20",
+          "name": "laakirchen.sonderwunschapp.at",
+          "internalWebPropertyId": "186683984",
+          "level": "STANDARD",
+          "websiteUrl": "https://laakirchen.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213258806",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183620930",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-13",
+          "name": "laura.sonderwunschapp.at",
+          "internalWebPropertyId": "186386858",
+          "level": "STANDARD",
+          "websiteUrl": "https://laura.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213255190",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183366360",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-49",
+          "name": "lindauergasse17.at",
+          "internalWebPropertyId": "204603998",
+          "level": "STANDARD",
+          "websiteUrl": "https://lindauergasse17.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213166199",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197959490",
+              "name": "Filtered Traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-37",
+          "name": "lindauergasse17.sonderwunschapp.at",
+          "internalWebPropertyId": "200001628",
+          "level": "STANDARD",
+          "websiteUrl": "https://lindauergasse17.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213279912",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "194275418",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-40",
+          "name": "mattighofen.sonderwunschapp.at",
+          "internalWebPropertyId": "202247834",
+          "level": "STANDARD",
+          "websiteUrl": "https://mattighofen.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213248041",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "196081320",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-42",
+          "name": "mellergasse5.at",
+          "internalWebPropertyId": "202677814",
+          "level": "STANDARD",
+          "websiteUrl": "https://mellergasse5.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213246625",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "196431455",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213213709",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-47",
+          "name": "mellergasse5.sonderwunschapp.at",
+          "internalWebPropertyId": "204644786",
+          "level": "STANDARD",
+          "websiteUrl": "https://mellergasse5.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213238561",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197992807",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-35",
+          "name": "noerdlingen.sonderwunschapp.de",
+          "internalWebPropertyId": "197899363",
+          "level": "STANDARD",
+          "websiteUrl": "https://noerdlingen.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213258811",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "192627562",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-7",
+          "name": "paragonstrasse.sonderwunschapp.at",
+          "internalWebPropertyId": "184631188",
+          "level": "STANDARD",
+          "websiteUrl": "https://paragonstrasse.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213257694",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "181948431",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-17",
+          "name": "paragonstrasse2.sonderwunschapp.at",
+          "internalWebPropertyId": "186701043",
+          "level": "STANDARD",
+          "websiteUrl": "https://paragonstrasse2.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213264160",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183638693",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-16",
+          "name": "pregarten.sonderwunschapp.at",
+          "internalWebPropertyId": "186369576",
+          "level": "STANDARD",
+          "websiteUrl": "https://pregarten.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213253374",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183359840",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-1",
+          "name": "propster.tech",
+          "internalWebPropertyId": "112814171",
+          "level": "STANDARD",
+          "websiteUrl": "https://www.propster.tech",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213266077",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "117804375",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-8",
+          "name": "rauchgasse40-44.at",
+          "internalWebPropertyId": "184804909",
+          "level": "STANDARD",
+          "websiteUrl": "https://rauchgasse40-44.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213247841",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213208275",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-12",
+          "name": "rauchgasse40-44.sonderwunschapp.at",
+          "internalWebPropertyId": "186421238",
+          "level": "STANDARD",
+          "websiteUrl": "https://rauchgasse40-44.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213271128",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183394287",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-33",
+          "name": "rohrbach.sonderwunschapp.at",
+          "internalWebPropertyId": "197373075",
+          "level": "STANDARD",
+          "websiteUrl": "https://rohrbach.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213271129",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "192208107",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-4",
+          "name": "siegesplatz17.sonderwunschapp.at",
+          "internalWebPropertyId": "179405631",
+          "level": "STANDARD",
+          "websiteUrl": "https://siegesplatz17.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213250847",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "177733855",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-11",
+          "name": "suedhang-oberlaa.sonderwunschapp.at",
+          "internalWebPropertyId": "186291284",
+          "level": "STANDARD",
+          "websiteUrl": "https://suedhang-oberlaa.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213271633",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183305747",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-54",
+          "name": "test.sonderwunschapp.at",
+          "internalWebPropertyId": "252254879",
+          "level": "STANDARD",
+          "websiteUrl": "https://test.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232677569",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232679272",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-21",
+          "name": "theson.sonderwunschapp.at",
+          "internalWebPropertyId": "186721550",
+          "level": "STANDARD",
+          "websiteUrl": "https://theson.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213286376",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183598003",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-27",
+          "name": "townhouse.sonderwunschapp.at",
+          "internalWebPropertyId": "193738738",
+          "level": "STANDARD",
+          "websiteUrl": "https://townhouse.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213262747",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "189284825",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-2",
+          "name": "triiiple.sonderwunschapp.at",
+          "internalWebPropertyId": "172153438",
+          "level": "STANDARD",
+          "websiteUrl": "https://triiiple.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213235615",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "171729879",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-29",
+          "name": "triiiple1.sonderwunschapp.at",
+          "internalWebPropertyId": "196503500",
+          "level": "STANDARD",
+          "websiteUrl": "https://triiiple1.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213248547",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "191516333",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-23",
+          "name": "wilhelmsaue.sonderwunschapp.de",
+          "internalWebPropertyId": "186703163",
+          "level": "STANDARD",
+          "websiteUrl": "https://wilhelmsaue.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213256178",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183641111",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-38",
+          "name": "wohnenimkorso.at",
+          "internalWebPropertyId": "200955565",
+          "level": "STANDARD",
+          "websiteUrl": "https://wohnenimkorso.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213197062",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "195074018",
+              "name": "Filtered Traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-14",
+          "name": "wohnpark.sonderwunschapp.at",
+          "internalWebPropertyId": "186400322",
+          "level": "STANDARD",
+          "websiteUrl": "https://wohnpark.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213280317",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "183377958",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-55",
+          "name": "www.propster-events.com",
+          "internalWebPropertyId": "262733710",
+          "level": "STANDARD",
+          "websiteUrl": "https://www.propster-events.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "237764996",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-74611556-39",
+          "name": "zaunerweg.sonderwunschapp.at",
+          "internalWebPropertyId": "202241131",
+          "level": "STANDARD",
+          "websiteUrl": "https://zaunerweg.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213268704",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "196103603",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "142698815",
+      "kind": "analytics#accountSummary",
+      "name": "PROPSTER GA 2",
+      "webProperties": [
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-21",
+          "name": "5072.sonderwunschapp.de",
+          "internalWebPropertyId": "209056004",
+          "level": "STANDARD",
+          "websiteUrl": "https://5072.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "201386866",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213271432",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-2",
+          "name": "am-kirchenplatz.sonderwunschapp.at",
+          "internalWebPropertyId": "204597752",
+          "level": "STANDARD",
+          "websiteUrl": "https://am-kirchenplatz.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197961801",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213291225",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-3",
+          "name": "am-stadtwald.sonderwunschapp.de",
+          "internalWebPropertyId": "204577066",
+          "level": "STANDARD",
+          "websiteUrl": "https://am-stadtwald.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197934559",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213264466",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-5",
+          "name": "bachgarten.at",
+          "internalWebPropertyId": "204652373",
+          "level": "STANDARD",
+          "websiteUrl": "https://bachgarten.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197995508",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213133112",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-4",
+          "name": "bachgarten.sonderwunschapp.at",
+          "internalWebPropertyId": "204581936",
+          "level": "STANDARD",
+          "websiteUrl": "https://bachgarten.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197988161",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213257091",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-25",
+          "name": "bellevue-living.si",
+          "internalWebPropertyId": "220578112",
+          "level": "STANDARD",
+          "websiteUrl": "https://bellevue-living.si",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "209819771",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213153909",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-10",
+          "name": "bemusterung.variohaus.at",
+          "internalWebPropertyId": "204657090",
+          "level": "STANDARD",
+          "websiteUrl": "https://bemusterung.variohaus.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197965647",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213275574",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-6",
+          "name": "cleverhaus.sonderwunschapp.at",
+          "internalWebPropertyId": "204642071",
+          "level": "STANDARD",
+          "websiteUrl": "https://cleverhaus.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197982932",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213262340",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-24",
+          "name": "configurator.bellevue-living.si",
+          "internalWebPropertyId": "219075070",
+          "level": "STANDARD",
+          "websiteUrl": "https://configurator.bellevue-living.si",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "208660857",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213254988",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-43",
+          "name": "configurator.mirror.jetzt",
+          "internalWebPropertyId": "233901857",
+          "level": "STANDARD",
+          "websiteUrl": "https://configurator.mirror.jetzt",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "219365133",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "219388275",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-29",
+          "name": "demo.propster.promo",
+          "internalWebPropertyId": "223465531",
+          "level": "STANDARD",
+          "websiteUrl": "https://demo.propster.promo",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "212014763",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213272643",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-35",
+          "name": "demo.reitenberger.de",
+          "internalWebPropertyId": "224642816",
+          "level": "STANDARD",
+          "websiteUrl": "https://demo.reitenberger.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "212956823",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213265678",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-45",
+          "name": "demouk.sonderwunschapp.at",
+          "internalWebPropertyId": "234667280",
+          "level": "STANDARD",
+          "websiteUrl": "https://demouk.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "219924893",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "219907374",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-37",
+          "name": "draschestrasse29.mangelmanagement.at",
+          "internalWebPropertyId": "226503588",
+          "level": "STANDARD",
+          "websiteUrl": "https://draschestrasse29.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "214165618",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "214187602",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-8",
+          "name": "draschestrasse29.sonderwunschapp.at",
+          "internalWebPropertyId": "204643428",
+          "level": "STANDARD",
+          "websiteUrl": "https://draschestrasse29.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197984091",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213268503",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-33",
+          "name": "ernsthofen.mangelmanagement.at",
+          "internalWebPropertyId": "223574688",
+          "level": "STANDARD",
+          "websiteUrl": "https://ernsthofen.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "212099373",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213287792",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-42",
+          "name": "fe112.sonderwunschapp.de",
+          "internalWebPropertyId": "232021225",
+          "level": "STANDARD",
+          "websiteUrl": "https://fe112.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "217974353",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "217985084",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-20",
+          "name": "forty2.zima.at",
+          "internalWebPropertyId": "207962274",
+          "level": "STANDARD",
+          "websiteUrl": "https://forty2.zima.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "200564883",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213247842",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-19",
+          "name": "gaismair-radstadt.at",
+          "internalWebPropertyId": "204637601",
+          "level": "STANDARD",
+          "websiteUrl": "https://gaismair-radstadt.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197969644",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213178050",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-28",
+          "name": "greenside.kraemmel.de",
+          "internalWebPropertyId": "222580229",
+          "level": "STANDARD",
+          "websiteUrl": "https://greenside.kraemmel.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "211381814",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213249839",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-31",
+          "name": "gruenstueck22.sonderwunschapp.at",
+          "internalWebPropertyId": "223616715",
+          "level": "STANDARD",
+          "websiteUrl": "https://gruenstueck22.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "212141413",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213275471",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-22",
+          "name": "inbaldham.sonderwunschapp.de",
+          "internalWebPropertyId": "209067824",
+          "level": "STANDARD",
+          "websiteUrl": "https://inbaldham.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "201397178",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213278097",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-34",
+          "name": "klr1.pmp-immobilien.at",
+          "internalWebPropertyId": "224533136",
+          "level": "STANDARD",
+          "websiteUrl": "https://klr1.pmp-immobilien.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "212867315",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213258508",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-55",
+          "name": "kuhlio.strabag.com",
+          "internalWebPropertyId": "251390618",
+          "level": "STANDARD",
+          "websiteUrl": "http://kuhlio.strabag.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232199744",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232185231",
+              "name": "filtered Traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-48",
+          "name": "laaerstrasse20.mangelmanagement.at/",
+          "internalWebPropertyId": "241330689",
+          "level": "STANDARD",
+          "websiteUrl": "http://laaerstrasse20.mangelmanagement.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "225118901",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "225116185",
+              "name": "Filtered Traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-40",
+          "name": "lehnstrasse.zima.ch",
+          "internalWebPropertyId": "229278839",
+          "level": "STANDARD",
+          "websiteUrl": "https://lehnstrasse.zima.ch/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "216042749",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "216014859",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-47",
+          "name": "mangelmanagement.truliving.de",
+          "internalWebPropertyId": "238615290",
+          "level": "STANDARD",
+          "websiteUrl": "https://mangelmanagement.truliving.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "223020034",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "223595741",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-30",
+          "name": "micro53.reitenberger.de",
+          "internalWebPropertyId": "223617818",
+          "level": "STANDARD",
+          "websiteUrl": "https://micro53.reitenberger.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "212142250",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213248855",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-27",
+          "name": "natur-quartier.at",
+          "internalWebPropertyId": "220953921",
+          "level": "STANDARD",
+          "websiteUrl": "https://natur-quartier.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "210126143",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213111993",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-16",
+          "name": "natur-quartier.sonderwunschapp.at",
+          "internalWebPropertyId": "204577791",
+          "level": "STANDARD",
+          "websiteUrl": "https://natur-quartier.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197991485",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213267898",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-41",
+          "name": "newliving.wohnzone.com",
+          "internalWebPropertyId": "231573334",
+          "level": "STANDARD",
+          "websiteUrl": "https://newliving.wohnzone.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "217614860",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "217625716",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-54",
+          "name": "niederrheinstrasse.sonderwunschapp.de",
+          "internalWebPropertyId": "251409919",
+          "level": "STANDARD",
+          "websiteUrl": "https://niederrheinstrasse.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232195762",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232156682",
+              "name": "filtered Traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-17",
+          "name": "oekosiedlung3401.sonderwunschapp.de",
+          "internalWebPropertyId": "204572219",
+          "level": "STANDARD",
+          "websiteUrl": "https://oekosiedlung3401.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197929923",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213248754",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-46",
+          "name": "oekosiedlung3404.sonderwunschapp.de",
+          "internalWebPropertyId": "235026450",
+          "level": "STANDARD",
+          "websiteUrl": "https://oekosiedlung3404.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "220212235",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "220213007",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-14",
+          "name": "parkallee-bremen.sonderwunschapp.de",
+          "internalWebPropertyId": "204625572",
+          "level": "STANDARD",
+          "websiteUrl": "https://parkallee-bremen.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197975989",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213285571",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-7",
+          "name": "plaza-pasing.sonderwunschapp.de",
+          "internalWebPropertyId": "204623766",
+          "level": "STANDARD",
+          "websiteUrl": "https://plaza-pasing.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197973715",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213292739",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-9",
+          "name": "pongratz-villenwohnungen.sonderwunschapp.at",
+          "internalWebPropertyId": "204658419",
+          "level": "STANDARD",
+          "websiteUrl": "https://pongratz-villenwohnungen.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197914020",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213237041",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-15",
+          "name": "preyergasse1-7.sonderwunschapp.at",
+          "internalWebPropertyId": "204584531",
+          "level": "STANDARD",
+          "websiteUrl": "https://preyergasse1-7.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197991158",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213266888",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-36",
+          "name": "service-blauekoenigin.wilhelm-architektur.de",
+          "internalWebPropertyId": "226459812",
+          "level": "STANDARD",
+          "websiteUrl": "https://service-blauekoenigin.wilhelm-architektur.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "214180430",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "214180033",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-39",
+          "name": "service-plattform.sonderwunschapp.at",
+          "internalWebPropertyId": "228186165",
+          "level": "STANDARD",
+          "websiteUrl": "https://service-plattform.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "215269574",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "215264199",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-1",
+          "name": "sonderwunschapp",
+          "internalWebPropertyId": "203970411",
+          "level": "STANDARD",
+          "websiteUrl": "https://sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197456443",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-53",
+          "name": "stadt-carre.zima.at/",
+          "internalWebPropertyId": "251267831",
+          "level": "STANDARD",
+          "websiteUrl": "https://stadt-carre.zima.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232190159",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232187197",
+              "name": "filtered Traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-44",
+          "name": "stadtquartier-wieselburg.propster.promo",
+          "internalWebPropertyId": "234528546",
+          "level": "STANDARD",
+          "websiteUrl": "https://stadtquartier-wieselburg.propster.promo",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "219823695",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "219801952",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-50",
+          "name": "study22.reitenberger.de",
+          "internalWebPropertyId": "243972110",
+          "level": "STANDARD",
+          "websiteUrl": "http://study22.reitenberger.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "227110022",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "227332566",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-23",
+          "name": "study56.reitenberger.de",
+          "internalWebPropertyId": "216375952",
+          "level": "STANDARD",
+          "websiteUrl": "https://study56.reitenberger.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "206749061",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213292941",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-32",
+          "name": "study74.reitenberger.de",
+          "internalWebPropertyId": "223630704",
+          "level": "STANDARD",
+          "websiteUrl": "https://study74.reitenberger.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "212152491",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213268806",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-49",
+          "name": "tellenbachareal.zima.ch",
+          "internalWebPropertyId": "242704268",
+          "level": "STANDARD",
+          "websiteUrl": "https://tellenbachareal.zima.ch/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "226169430",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "226163644",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-13",
+          "name": "ville-verde.sonderwunschapp.at",
+          "internalWebPropertyId": "204573743",
+          "level": "STANDARD",
+          "websiteUrl": "https://ville-verde.sonderwunschapp.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197963234",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213241363",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-18",
+          "name": "villenpark-eichgraben.at",
+          "internalWebPropertyId": "204640837",
+          "level": "STANDARD",
+          "websiteUrl": "https://villenpark-eichgraben.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197985822",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213103314",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-12",
+          "name": "villenpark-eichgraben.sonderwunschapp.at",
+          "internalWebPropertyId": "204602346",
+          "level": "STANDARD",
+          "websiteUrl": "https://villenpark-eichgraben.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197958571",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213288801",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-38",
+          "name": "villenwohnungen.at",
+          "internalWebPropertyId": "228066420",
+          "level": "STANDARD",
+          "websiteUrl": "https://villenwohnungen.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "215181622",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "215154938",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-11",
+          "name": "weitzer-parkett.sonderwunschapp.at",
+          "internalWebPropertyId": "204580017",
+          "level": "STANDARD",
+          "websiteUrl": "https://weitzer-parkett.sonderwunschapp.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "197948500",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213288802",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-142698815-26",
+          "name": "werderstrasse.reitenberger.de",
+          "internalWebPropertyId": "220855715",
+          "level": "STANDARD",
+          "websiteUrl": "https://werderstrasse.reitenberger.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "210045103",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "213279308",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "173448485",
+      "kind": "analytics#accountSummary",
+      "name": "PROPSTER GA 3",
+      "webProperties": [
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-35",
+          "name": "3-berge-blick.wohnzone.com",
+          "internalWebPropertyId": "279522369",
+          "level": "STANDARD",
+          "websiteUrl": "https://3-berge-blick.wohnzone.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "247169217",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "247177204",
+              "name": "Filtered View 3-berge-blick",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-10",
+          "name": "5050.sonderwunschapp.de",
+          "internalWebPropertyId": "253466150",
+          "level": "STANDARD",
+          "websiteUrl": "https://5050.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "233343706",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "233312203",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-6",
+          "name": "5072.mangelmanagement.at",
+          "internalWebPropertyId": "250979758",
+          "level": "STANDARD",
+          "websiteUrl": "https://5072.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232052509",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232057355",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-8",
+          "name": "alpenblick.sonderwunschapp.de",
+          "internalWebPropertyId": "252619294",
+          "level": "STANDARD",
+          "websiteUrl": "https://alpenblick.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232920950",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232906206",
+              "name": "filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-23",
+          "name": "am-taelchen.sonderwunschapp.de",
+          "internalWebPropertyId": "269277679",
+          "level": "STANDARD",
+          "websiteUrl": "https://am-taelchen.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "241244360",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "241255557",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-18",
+          "name": "blickpunkt-liezen.wohnzone.com/",
+          "internalWebPropertyId": "263597636",
+          "level": "STANDARD",
+          "websiteUrl": "https://blickpunkt-liezen.wohnzone.com/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238151954",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238148395",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-25",
+          "name": "brenzstrasse.krams-projektentwicklung.de/",
+          "internalWebPropertyId": "273571039",
+          "level": "STANDARD",
+          "websiteUrl": "https://brenzstrasse.krams-projektentwicklung.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "243546459",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-33",
+          "name": "bruno-marek-allee.mangelmanagement.at/",
+          "internalWebPropertyId": "276747862",
+          "level": "STANDARD",
+          "websiteUrl": "https://bruno-marek-allee.mangelmanagement.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245420004",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245492899",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-22",
+          "name": "dashboard.propster.app",
+          "internalWebPropertyId": "266796964",
+          "level": "STANDARD",
+          "websiteUrl": "https://dashboard.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "239943012",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "240288871",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-16",
+          "name": "donautalerhofgaerten.sonderwunschapp.de",
+          "internalWebPropertyId": "262283041",
+          "level": "STANDARD",
+          "websiteUrl": "https://donautalerhofgaerten.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "237461452",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238150695",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-50",
+          "name": "edition3.sonderwunschapp.de",
+          "internalWebPropertyId": "292176040",
+          "level": "STANDARD",
+          "websiteUrl": "https://edition3.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "254615982",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "254607084",
+              "name": "edition3.sonderwunschapp.de - Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-54",
+          "name": "elk-prime.propster.app",
+          "internalWebPropertyId": "294256441",
+          "level": "STANDARD",
+          "websiteUrl": "https://elk-prime.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "255770512",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "255841562",
+              "name": "Filtered View - elk-prime.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-28",
+          "name": "ernst-melchior-gasse.mangelmanagement.at",
+          "internalWebPropertyId": "276806608",
+          "level": "STANDARD",
+          "websiteUrl": "https://ernst-melchior-gasse.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245417314",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245433334",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-24",
+          "name": "f3.sonderwunschapp.de",
+          "internalWebPropertyId": "271662406",
+          "level": "STANDARD",
+          "websiteUrl": "https://3.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "242573171",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "242595155",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-5",
+          "name": "flurstrasse.werndl-partner.de",
+          "internalWebPropertyId": "250959081",
+          "level": "STANDARD",
+          "websiteUrl": "https://flurstrasse.werndl-partner.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232046747",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232039793",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-40",
+          "name": "frieda.fischer-smits.de",
+          "internalWebPropertyId": "283120350",
+          "level": "STANDARD",
+          "websiteUrl": "https://frieda.fischer-smits.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "249275411",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "249303394",
+              "name": "Filtered View  frieda.fischer-smits.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-12",
+          "name": "gerstl.propster.app",
+          "internalWebPropertyId": "256632665",
+          "level": "STANDARD",
+          "websiteUrl": "https://gerstl.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "234824373",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "234856464",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-14",
+          "name": "gruenes-w.sonderwunschapp.de",
+          "internalWebPropertyId": "256922834",
+          "level": "STANDARD",
+          "websiteUrl": "https://gruenes-w.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "234920056",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "240311500",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-38",
+          "name": "gruengut.sonderwunschapp.de",
+          "internalWebPropertyId": "282291549",
+          "level": "STANDARD",
+          "websiteUrl": "https://gruengut.sonderwunschapp.de/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "248808112",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "248767708",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-55",
+          "name": "herdergaerten.werndl-partner.de",
+          "internalWebPropertyId": "294515478",
+          "level": "STANDARD",
+          "websiteUrl": "https://herdergaerten.werndl-partner.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "255899248",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "255932236",
+              "name": "Filtered View - herdergaerten.werndl-partner.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-29",
+          "name": "hlawkagasse.mangelmanagement.at",
+          "internalWebPropertyId": "276770384",
+          "level": "STANDARD",
+          "websiteUrl": "https://hlawkagasse.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245453548",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245450432",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-53",
+          "name": "https://freiraum-sued.baustellenzone.at",
+          "internalWebPropertyId": "293054015",
+          "level": "STANDARD",
+          "websiteUrl": "https://freiraum-sued.baustellenzone.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "255129421",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "255141128",
+              "name": "Filtered view - freiraum-sued.baustellenzone.at",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-46",
+          "name": "https://otto.propster.app",
+          "internalWebPropertyId": "290811308",
+          "level": "STANDARD",
+          "websiteUrl": "https://otto.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "253785341",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "253793402",
+              "name": "Filtered View - otto.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-45",
+          "name": "https://schopenhauerstrasse.krams-projektentwicklung.de",
+          "internalWebPropertyId": "290853957",
+          "level": "STANDARD",
+          "websiteUrl": "https://schopenhauerstrasse.krams-projektentwicklung.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "253810481",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "253769481",
+              "name": "Filtered view - schopenhauerstrasse.krams-projektentwicklung.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-47",
+          "name": "https://woonmodule.propster.app",
+          "internalWebPropertyId": "291388262",
+          "level": "STANDARD",
+          "websiteUrl": "https://woonmodule.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "254122179",
+              "name": "Alle Websitedaten",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "254094508",
+              "name": "Filtered View - woonmodule.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-30",
+          "name": "kaiserstrasse.mangelmanagement.at",
+          "internalWebPropertyId": "276748834",
+          "level": "STANDARD",
+          "websiteUrl": "https://kaiserstrasse.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245454138",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245497243",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-32",
+          "name": "klitschgasse.mangelmanagement.at",
+          "internalWebPropertyId": "276814659",
+          "level": "STANDARD",
+          "websiteUrl": "https://klitschgasse.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245433255",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245522828",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-49",
+          "name": "lebensraum-stlorenz.wohnzone.com/",
+          "internalWebPropertyId": "292162249",
+          "level": "STANDARD",
+          "websiteUrl": "https://lebensraum-stlorenz.wohnzone.com/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "254602709",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "254617095",
+              "name": "Filtered View - lebensraum-stlorenz.wohnzone.com",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-43",
+          "name": "lettenstrasse.projektbau-mutter.de",
+          "internalWebPropertyId": "285738034",
+          "level": "STANDARD",
+          "websiteUrl": "https://lettenstrasse.projektbau-mutter.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "250795365",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "250807484",
+              "name": "Filtered View lettenstrasse.projektbau-mutter.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-37",
+          "name": "liebera.zima.at",
+          "internalWebPropertyId": "281713840",
+          "level": "STANDARD",
+          "websiteUrl": "https://liebera.zima.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "248457450",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "248442540",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-41",
+          "name": "living-isar-gwl.abg-group.de",
+          "internalWebPropertyId": "283150626",
+          "level": "STANDARD",
+          "websiteUrl": "https://living-isar-gwl.abg-group.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "249299579",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "249289577",
+              "name": "Filtered View living-isar-gwl.abg-group.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-21",
+          "name": "living-stlorenz.wohnzone.com/",
+          "internalWebPropertyId": "264317231",
+          "level": "STANDARD",
+          "websiteUrl": "https://living-stlorenz.wohnzone.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238574858",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238538311",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-39",
+          "name": "luisengarten.sonderwunschapp.de",
+          "internalWebPropertyId": "282843200",
+          "level": "STANDARD",
+          "websiteUrl": "https://luisengarten.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "249113897",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "249143282",
+              "name": "Filtered View luisengarten.sonderwunschapp.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-48",
+          "name": "marlen-haushofer-weg.propster.app",
+          "internalWebPropertyId": "292014239",
+          "level": "STANDARD",
+          "websiteUrl": "https://marlen-haushofer-weg.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "254509546",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "254529543",
+              "name": "Filtered View - marlen-haushofer-weg.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-27",
+          "name": "micro80.reitenberger.de",
+          "internalWebPropertyId": "274227149",
+          "level": "STANDARD",
+          "websiteUrl": "https://micro80.reitenberger.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "243938691",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "243911936",
+              "name": "Filtered View micro80.reitenberger.de",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-19",
+          "name": "parislodron7.wohnzone.com",
+          "internalWebPropertyId": "263609130",
+          "level": "STANDARD",
+          "websiteUrl": "https://parislodron7.wohnzone.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238143237",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238150452",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-4",
+          "name": "quartier-neuhausen.sonderwunschapp.de",
+          "internalWebPropertyId": "250977266",
+          "level": "STANDARD",
+          "websiteUrl": "https://quartier-neuhausen.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232046051",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "232079359",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-26",
+          "name": "roesslergasse.mangelmanagement.at",
+          "internalWebPropertyId": "274222586",
+          "level": "STANDARD",
+          "websiteUrl": "https://roesslergasse.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "243937473",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "243934152",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-34",
+          "name": "roesslergasse13.mangelmanagement.at",
+          "internalWebPropertyId": "276811191",
+          "level": "STANDARD",
+          "websiteUrl": "https://roesslergasse.mangelmanagement.at/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245430934",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245490069",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-11",
+          "name": "schloesslestrasse.zima.at",
+          "internalWebPropertyId": "255613316",
+          "level": "STANDARD",
+          "websiteUrl": "https://schloesslestrasse.zima.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "234320235",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "234364734",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-36",
+          "name": "Schusterweg.reitenberger.de",
+          "internalWebPropertyId": "280647145",
+          "level": "STANDARD",
+          "websiteUrl": "https://schusterweg.reitenberger.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "247808892",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "247810285",
+              "name": "Filtered View schusterweg reitenberger",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-31",
+          "name": "schweidlgasse.mangelmanagement.at",
+          "internalWebPropertyId": "276824344",
+          "level": "STANDARD",
+          "websiteUrl": "https://schweidlgasse.mangelmanagement.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245451243",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "245499127",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-15",
+          "name": "service.propster.app",
+          "internalWebPropertyId": "260332509",
+          "level": "STANDARD",
+          "websiteUrl": "https://service.propster.app/",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "236425900",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-56",
+          "name": "smartcity-graz.propster.app",
+          "internalWebPropertyId": "295772187",
+          "level": "STANDARD",
+          "websiteUrl": "https://smartcity-graz.propster.app",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "256546195",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "256546133",
+              "name": "Filtered View smartcity-graz.propster.app",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-20",
+          "name": "stadt-land-ried.wohnzone.com",
+          "internalWebPropertyId": "263615520",
+          "level": "STANDARD",
+          "websiteUrl": "https://stadt-land-ried.wohnzone.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238168425",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238091721",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-17",
+          "name": "stadt-leben-salzburg.wohnzone.com",
+          "internalWebPropertyId": "263605350",
+          "level": "STANDARD",
+          "websiteUrl": "https://stadt-leben-salzburg.wohnzone.com",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238149097",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "238092142",
+              "name": "Filtered View",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-3",
+          "name": "test.propster.promo",
+          "internalWebPropertyId": "247568072",
+          "level": "STANDARD",
+          "websiteUrl": "https://test.propster.promo",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "229799517",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "229808088",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-9",
+          "name": "verve.kraemmel.de",
+          "internalWebPropertyId": "253372650",
+          "level": "STANDARD",
+          "websiteUrl": "https://verve.kraemmel.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "233248166",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "233272797",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-1",
+          "name": "vilis-am-quellenbusch.propster.promo",
+          "internalWebPropertyId": "240812091",
+          "level": "STANDARD",
+          "websiteUrl": "https://vilis-am-quellenbusch.propster.promo",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "224702301",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "227556808",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-2",
+          "name": "vilis-am-quellenbusch.sonderwunschapp.de",
+          "internalWebPropertyId": "247376558",
+          "level": "STANDARD",
+          "websiteUrl": "http://vilis-am-quellenbusch.sonderwunschapp.de",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "229679381",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "229662015",
+              "name": "Filtered traffic",
+              "type": "WEB"
+            }
+          ]
+        },
+        {
+          "kind": "analytics#webPropertySummary",
+          "id": "UA-173448485-42",
+          "name": "wohnen-eggelsberg.at",
+          "internalWebPropertyId": "285170790",
+          "level": "STANDARD",
+          "websiteUrl": "https://wohnen-eggelsberg.at",
+          "profiles": [
+            {
+              "kind": "analytics#profileSummary",
+              "id": "250495492",
+              "name": "All Web Site Data",
+              "type": "WEB"
+            },
+            {
+              "kind": "analytics#profileSummary",
+              "id": "250486111",
+              "name": "Filtered View wohnen-eggelsberg.at",
+              "type": "WEB"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
