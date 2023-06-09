@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from openpyxl import Workbook
 
 # Parse the XML file
-tree = ET.parse('Sourcefiles/annelies.xml')
+tree = ET.parse('Source/source.xml')
 
 # Get the root element
 root = tree.getroot()
