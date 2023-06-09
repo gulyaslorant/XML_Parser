@@ -50,5 +50,5 @@ for i, url in enumerate(image_urls):
     ws.cell(row=i+1, column=2, value=url)
 
 # Save the Excel file
-wb.save('Sourcefiles/Bildurl.xlsx')
+wb.save('result.xlsx')
 
