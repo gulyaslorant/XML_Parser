@@ -1,6 +1,5 @@
 import sys
 
-import Werte_verketten
 import functions
 
 def weiter():
